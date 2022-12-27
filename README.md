@@ -81,8 +81,8 @@ xnor (y7,a,b);
 endmodule
 ```
 ## Logic symbol & Truthtable
-![](./TT.png)
-![](logic%20symbols.jpg)
+![](TT.png)
+![](LG.jpg)
 
 ## RTL realization
 ![](./o1.png)
