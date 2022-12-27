@@ -84,6 +84,5 @@ endmodule
 ![](logic%20symbols.jpg)
 ## RTL realization
 ![](./o1.png)
-
 ## Result:
 thus the different digital IC's are studied and the truth table for different logic gates are verified.
